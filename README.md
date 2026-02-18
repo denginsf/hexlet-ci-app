@@ -1,5 +1,7 @@
 # Example app for CI Hexlet course
 
+[![runnet](https://github.com/denginsf/hexlet-ci-app/actions/workflows/runnet.yml/badge.svg)](https://github.com/denginsf/hexlet-ci-app/actions/workflows/runnet.yml)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
